@@ -1,0 +1,5 @@
+Halo,
+Perkenalkan nama saya Rizky. Saya adalah Mahasiswa Universitas Suryakancana Cianjur.
+Fakultas Teknik, Prodi Informatika.
+Dalam Teknik Informatika Universitas Suryakancana Cianjur berbagai macam bahasa pemrograman untuk membuat sebuah aplikasi
+ataupun membuat AR dan VR.
